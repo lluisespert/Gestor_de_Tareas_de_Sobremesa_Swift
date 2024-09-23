@@ -32,13 +32,16 @@ class Gestor {
 
 class Login {
     
+    var id = UUID()
+    
     var usuario: String
     
     var contrasena: String
     
     var email: String
     
-    init(usuario: String, contrasena: String, email: String) {
+    init(id: UUID = UUID(), usuario: String, contrasena: String, email: String) {
+        self.id = id
         self.usuario = usuario
         self.contrasena = contrasena
         self.email = email
