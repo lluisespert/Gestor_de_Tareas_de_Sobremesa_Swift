@@ -1,0 +1,546 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		FCC6349D2CA161B00056FF13 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FCC634832CA161AF0056FF13 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FCC6348A2CA161AF0056FF13;
+			remoteInfo = Gestor_de_tareas_de_escritorio;
+		};
+		FCC634A72CA161B00056FF13 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FCC634832CA161AF0056FF13 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FCC6348A2CA161AF0056FF13;
+			remoteInfo = Gestor_de_tareas_de_escritorio;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FCC6348B2CA161AF0056FF13 /* Gestor_de_tareas_de_escritorio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Gestor_de_tareas_de_escritorio.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FCC6349C2CA161B00056FF13 /* Gestor_de_tareas_de_escritorioTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Gestor_de_tareas_de_escritorioTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FCC634A62CA161B00056FF13 /* Gestor_de_tareas_de_escritorioUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Gestor_de_tareas_de_escritorioUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		FCC6348D2CA161AF0056FF13 /* Gestor_de_tareas_de_escritorio */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Gestor_de_tareas_de_escritorio;
+			sourceTree = "<group>";
+		};
+		FCC6349F2CA161B00056FF13 /* Gestor_de_tareas_de_escritorioTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Gestor_de_tareas_de_escritorioTests;
+			sourceTree = "<group>";
+		};
+		FCC634A92CA161B00056FF13 /* Gestor_de_tareas_de_escritorioUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Gestor_de_tareas_de_escritorioUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FCC634882CA161AF0056FF13 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FCC634992CA161B00056FF13 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FCC634A32CA161B00056FF13 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FCC634822CA161AF0056FF13 = {
+			isa = PBXGroup;
+			children = (
+				FCC6348D2CA161AF0056FF13 /* Gestor_de_tareas_de_escritorio */,
+				FCC6349F2CA161B00056FF13 /* Gestor_de_tareas_de_escritorioTests */,
+				FCC634A92CA161B00056FF13 /* Gestor_de_tareas_de_escritorioUITests */,
+				FCC6348C2CA161AF0056FF13 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FCC6348C2CA161AF0056FF13 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FCC6348B2CA161AF0056FF13 /* Gestor_de_tareas_de_escritorio.app */,
+				FCC6349C2CA161B00056FF13 /* Gestor_de_tareas_de_escritorioTests.xctest */,
+				FCC634A62CA161B00056FF13 /* Gestor_de_tareas_de_escritorioUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FCC6348A2CA161AF0056FF13 /* Gestor_de_tareas_de_escritorio */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FCC634B02CA161B00056FF13 /* Build configuration list for PBXNativeTarget "Gestor_de_tareas_de_escritorio" */;
+			buildPhases = (
+				FCC634872CA161AF0056FF13 /* Sources */,
+				FCC634882CA161AF0056FF13 /* Frameworks */,
+				FCC634892CA161AF0056FF13 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				FCC6348D2CA161AF0056FF13 /* Gestor_de_tareas_de_escritorio */,
+			);
+			name = Gestor_de_tareas_de_escritorio;
+			packageProductDependencies = (
+			);
+			productName = Gestor_de_tareas_de_escritorio;
+			productReference = FCC6348B2CA161AF0056FF13 /* Gestor_de_tareas_de_escritorio.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FCC6349B2CA161B00056FF13 /* Gestor_de_tareas_de_escritorioTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FCC634B32CA161B00056FF13 /* Build configuration list for PBXNativeTarget "Gestor_de_tareas_de_escritorioTests" */;
+			buildPhases = (
+				FCC634982CA161B00056FF13 /* Sources */,
+				FCC634992CA161B00056FF13 /* Frameworks */,
+				FCC6349A2CA161B00056FF13 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FCC6349E2CA161B00056FF13 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				FCC6349F2CA161B00056FF13 /* Gestor_de_tareas_de_escritorioTests */,
+			);
+			name = Gestor_de_tareas_de_escritorioTests;
+			packageProductDependencies = (
+			);
+			productName = Gestor_de_tareas_de_escritorioTests;
+			productReference = FCC6349C2CA161B00056FF13 /* Gestor_de_tareas_de_escritorioTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		FCC634A52CA161B00056FF13 /* Gestor_de_tareas_de_escritorioUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FCC634B62CA161B00056FF13 /* Build configuration list for PBXNativeTarget "Gestor_de_tareas_de_escritorioUITests" */;
+			buildPhases = (
+				FCC634A22CA161B00056FF13 /* Sources */,
+				FCC634A32CA161B00056FF13 /* Frameworks */,
+				FCC634A42CA161B00056FF13 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FCC634A82CA161B00056FF13 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				FCC634A92CA161B00056FF13 /* Gestor_de_tareas_de_escritorioUITests */,
+			);
+			name = Gestor_de_tareas_de_escritorioUITests;
+			packageProductDependencies = (
+			);
+			productName = Gestor_de_tareas_de_escritorioUITests;
+			productReference = FCC634A62CA161B00056FF13 /* Gestor_de_tareas_de_escritorioUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FCC634832CA161AF0056FF13 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					FCC6348A2CA161AF0056FF13 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					FCC6349B2CA161B00056FF13 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = FCC6348A2CA161AF0056FF13;
+					};
+					FCC634A52CA161B00056FF13 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = FCC6348A2CA161AF0056FF13;
+					};
+				};
+			};
+			buildConfigurationList = FCC634862CA161AF0056FF13 /* Build configuration list for PBXProject "Gestor_de_tareas_de_escritorio" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FCC634822CA161AF0056FF13;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = FCC6348C2CA161AF0056FF13 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FCC6348A2CA161AF0056FF13 /* Gestor_de_tareas_de_escritorio */,
+				FCC6349B2CA161B00056FF13 /* Gestor_de_tareas_de_escritorioTests */,
+				FCC634A52CA161B00056FF13 /* Gestor_de_tareas_de_escritorioUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FCC634892CA161AF0056FF13 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FCC6349A2CA161B00056FF13 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FCC634A42CA161B00056FF13 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FCC634872CA161AF0056FF13 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FCC634982CA161B00056FF13 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FCC634A22CA161B00056FF13 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FCC6349E2CA161B00056FF13 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FCC6348A2CA161AF0056FF13 /* Gestor_de_tareas_de_escritorio */;
+			targetProxy = FCC6349D2CA161B00056FF13 /* PBXContainerItemProxy */;
+		};
+		FCC634A82CA161B00056FF13 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FCC6348A2CA161AF0056FF13 /* Gestor_de_tareas_de_escritorio */;
+			targetProxy = FCC634A72CA161B00056FF13 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		FCC634AE2CA161B00056FF13 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FCC634AF2CA161B00056FF13 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		FCC634B12CA161B00056FF13 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Gestor_de_tareas_de_escritorio/Gestor_de_tareas_de_escritorio.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Gestor_de_tareas_de_escritorio/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lluisete.Gestor-de-tareas-de-escritorio";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		FCC634B22CA161B00056FF13 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Gestor_de_tareas_de_escritorio/Gestor_de_tareas_de_escritorio.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Gestor_de_tareas_de_escritorio/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lluisete.Gestor-de-tareas-de-escritorio";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		FCC634B42CA161B00056FF13 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lluisete.Gestor-de-tareas-de-escritorioTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Gestor_de_tareas_de_escritorio.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Gestor_de_tareas_de_escritorio";
+			};
+			name = Debug;
+		};
+		FCC634B52CA161B00056FF13 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lluisete.Gestor-de-tareas-de-escritorioTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Gestor_de_tareas_de_escritorio.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Gestor_de_tareas_de_escritorio";
+			};
+			name = Release;
+		};
+		FCC634B72CA161B00056FF13 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lluisete.Gestor-de-tareas-de-escritorioUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = Gestor_de_tareas_de_escritorio;
+			};
+			name = Debug;
+		};
+		FCC634B82CA161B00056FF13 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lluisete.Gestor-de-tareas-de-escritorioUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = Gestor_de_tareas_de_escritorio;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FCC634862CA161AF0056FF13 /* Build configuration list for PBXProject "Gestor_de_tareas_de_escritorio" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FCC634AE2CA161B00056FF13 /* Debug */,
+				FCC634AF2CA161B00056FF13 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FCC634B02CA161B00056FF13 /* Build configuration list for PBXNativeTarget "Gestor_de_tareas_de_escritorio" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FCC634B12CA161B00056FF13 /* Debug */,
+				FCC634B22CA161B00056FF13 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FCC634B32CA161B00056FF13 /* Build configuration list for PBXNativeTarget "Gestor_de_tareas_de_escritorioTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FCC634B42CA161B00056FF13 /* Debug */,
+				FCC634B52CA161B00056FF13 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FCC634B62CA161B00056FF13 /* Build configuration list for PBXNativeTarget "Gestor_de_tareas_de_escritorioUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FCC634B72CA161B00056FF13 /* Debug */,
+				FCC634B82CA161B00056FF13 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FCC634832CA161AF0056FF13 /* Project object */;
+}
